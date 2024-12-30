@@ -5,13 +5,7 @@
     <h1 class="w3-xxxlarge w3-text-<?php echo $colors[$color_random_index]; ?>"><b>Authors</b></h1>
     <hr style="width:50px;border:5px solid" class="w3-round w3-text-<?php echo $colors[$color_random_index]; ?>">
     <p>The best selection of authors in the world.</p>
-    <p>We are lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-        aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure
-        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing
-        elit, sed do eiusmod tempor
-        incididunt ut labore et quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    <p>Our bookstore features a talented lineup of authors, including best-seller Marko Gronkowski, known for his thrilling plots, and Isaac Garza, whose vivid storytelling captivates readers. Emiliano Rickerson and Gabriel Gunnerson bring emotional depth and adventure, while Lucy Brucey explores personal growth through her contemporary novels. Newcomers like Gaby Rockhold and Rick Nickelback are quickly making their mark, offering fresh perspectives. With diverse voices from Nathan Graythan to Israel Adesanya, there's something for everyone in our collection.
     </p>
 
     <table class="w3-table-all w3-bordered w3-striped w3-border test w3-hoverable">
