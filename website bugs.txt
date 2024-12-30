@@ -1,0 +1,9 @@
+userdoes not exist alert is persistant even through refresh
+
+wrong password doesnt notify wrong password
+
+list current enums on page
+
+how can i call the username without redirecting from login to admin page? Do i set a global vairable? is that safe?
+
+Make a page for adding usernames and passwords into the database.
