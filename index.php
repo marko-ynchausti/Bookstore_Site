@@ -22,12 +22,7 @@
 
         <hr style="width:50px;border:5px solid " class="w3-round w3-text-<?php echo $colors[$color_random_index]; ?>">
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum.
+            This is a school project I did for my Database class. It currently only works in localhost. Since it has a database attached to it, additional configuration will need to be added if I wanted to use it with github pages for example using API's to transfer information between the PostgreSQL server and github pages. I have included the website code and the SQL queries for anyone to recreate this website and database. In order for it to work with a database, I used XAMPP to create localhost Apache webserver, and psql shell in the terminal to run the queries and create the database.
         </p>
 
     </div>
